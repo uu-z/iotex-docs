@@ -64,7 +64,7 @@ The simplest way to get started with  IoTeX software package is to run it in sta
 ## CLI (command-line interface)
 ioctl is a command-line interface for interacting with IoTeX blockchains.
 
-:::: tabs
+:::: tabs :options="{ useUrlFragment: false }"
 ::: tab bash
 ```bash
 Usage:

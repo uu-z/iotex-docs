@@ -1,5 +1,5 @@
 module.exports = {
-	plugins: [[ 'tabs', { dedupeIds: true } ]],
+	plugins: [ 'tabs'],
 	locales: {
 		'/': {
 			lang: 'en-US',
