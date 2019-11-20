@@ -11,7 +11,7 @@ module.exports = {
   locales: {
     "/": {
       lang: "en-US",
-      title: "Documentation",
+      title: "",
       description: "by the community for the community"
     }
   },
